@@ -1,0 +1,14 @@
+html {
+	font-family: monospace, sans-serif;
+}
+
+body {
+	text-align: center;
+	text-transform: uppercase;
+	background: linear-gradient(to right, red, blue);
+}
+
+h3 {
+	font-family: inherit;
+	font-size: 13px;
+}
